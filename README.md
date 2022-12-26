@@ -5,7 +5,7 @@
 - 💬 &nbsp;Ask me about anything related to Javascript/Python or React/Laravel
 - 📫 &nbsp;How to reach me: [@oussamazitou](https://twitter.com/OussamaZitou)
 - 👨‍💻 &nbsp;Read more about my projects at [oussamazitou.com](https://oussamazitou.github.io)
-- ⚡ &nbsp;Fun fact: I :heart: :dog:s and Xbox Gaming (GamerTag: [GKRXtreme](https://account.xbox.com/en-us/profile?gamertag=GKRXtreme))
+- ⚡ &nbsp;Fun fact: I :heart: Voice Over, Kickboxing and Gaming 
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
