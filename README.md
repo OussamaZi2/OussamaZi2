@@ -2,7 +2,7 @@
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning Flutter, Spring Boot
-- 💬 &nbsp;Ask me about anything related to Javascript/Python or React/Laravel
+- 💬 &nbsp;Ask me about anything related to Javascript/Python or Php/Laravel
 - 📫 &nbsp;How to reach me: [@oussamazitou](https://twitter.com/OussamaZitou)
 - 👨‍💻 &nbsp;Read more about my projects at [oussamazitou.com](https://oussamazitou.github.io)
 - ⚡ &nbsp;Fun fact: I :heart: Voice Over, Kickboxing and Gaming 
